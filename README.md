@@ -51,7 +51,3 @@ The models were evaluated based on accuracy, precision, recall, and F1-score. Th
 ## Contributing
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
-
----
-
-Feel free to modify this README further to better fit your project's details or if additional sections are needed.
