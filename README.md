@@ -47,7 +47,3 @@ To run the notebook:
 ## Evaluation
 
 The models were evaluated based on accuracy, precision, recall, and F1-score. The Logistic Regression model, in particular, showed promising results on the test set.
-
-## Contributing
-
-Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
